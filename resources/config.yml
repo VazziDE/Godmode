@@ -1,0 +1,22 @@
+# Godmode Plugin Settings
+
+# Should Operator get Godmode on Join? If YES set true if NO set false
+
+admin-join: false
+
+# Should Godmode be removed on Leave? If YES set true if NO set false
+
+disable-on-leave: true
+
+# Messages on activate/deactivate
+
+activate-godmode: "§aYou are now in the Godmode and therefore invincible."
+deactivate-godmode: "§cYou have left the Godmode, so take care of yourself."
+
+# Godmode Settings
+
+heal-player: true
+feed-player: true
+fly-player: true
+no-damage-player: true
+creative-player: false
