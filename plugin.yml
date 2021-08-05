@@ -1,0 +1,11 @@
+name: Godmode
+version: 1.0.0
+main: Vazzi\Godmode\Main
+api: 3.22.1
+author: Vazzi
+description: Godmode is a Plugin which allows players to put themselves in Godmode and to be immortal.
+
+permissions:
+  godmode.use:
+    description: Allows Player to use Godmode
+    default: op
