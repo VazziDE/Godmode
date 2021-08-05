@@ -1,6 +1,0 @@
----
-name: Godmode
-version: 0.0.1
-main: Vazzi\Godmode\Main
-api: 3.22.1
-...
