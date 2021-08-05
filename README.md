@@ -13,3 +13,5 @@ Permission: godmode.use<br>
 <h3> Easy Configuration </h3>
 
 ![image](https://user-images.githubusercontent.com/45903049/128409128-16545b32-3bd2-48e6-9ff8-acd3cd8c5c0c.png)
+
+Icon Credits: https://www.flaticon.com/
